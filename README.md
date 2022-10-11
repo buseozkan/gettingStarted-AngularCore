@@ -1,5 +1,7 @@
 # GettingStarted
 
+This projects docs are not the newest version of Angular:
+the [Angular CLI](https://devdocs.io/angular~5/tutorial/toh-pt4) is.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
 
 ## Development server
